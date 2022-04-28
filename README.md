@@ -4,6 +4,8 @@
 - 💞️ Compartilho o conhecimento que possuo e motivo pessoas em fórums e discord.
 - 📫 Você pode conhecer um pouco sobre mim em meu LinkedIn : https://www.linkedin.com/in/edipo-criscuolo/
 - 🚀 Quando há determinação e coragem os desafios são resolvidos!
+-  ![image](https://user-images.githubusercontent.com/104037935/165865643-0f1ba5e9-4616-49b5-a001-bdda4666688c.png) O dia de amanhã começa hoje.
+
 
 <!---
 Edipo-Melo/Edipo-Melo é um repositório ✨ especial ✨ porque seu `README.md` (este arquivo) aparece no seu perfil 
