@@ -1,4 +1,4 @@
-- 👋 Olá, eu sou Edipo.
+- 👋 Olá, eu sou Édipo.
 - 👀 Estou interessado em Desenvolvimento de Software em C# .NET
 - 🌱 Atualmente sou estudante de Ciências da Computação e estou cursando o terceiro período.
 - 💞️ Compartilho o conhecimento que possuo e motivo pessoas em fórums, no discord e no dia a dia.
